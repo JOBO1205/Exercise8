@@ -6,16 +6,17 @@ h1 {
   text-align: center;
   font-weight: bold;
   font-size: 30pt;
-}
-
-h1 {
   border: 1px solid black;
   margin: 0px 0px 3px 0px;
   padding: 4px;
-}
-
-h1 {
-  div width:300px;
+  border: 1px solid black;
+  margin: 0px 0px 3px 0px;
+  padding: 4px;
   margin:auto;
   background-color:#e8e7e7;
 }
+
+.center {
+  text-align: center;
+}
+
