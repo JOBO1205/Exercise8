@@ -9,14 +9,15 @@ h1 {
   border: 1px solid black;
   margin: 0px 0px 3px 0px;
   padding: 4px;
-  border: 1px solid black;
-  margin: 0px 0px 3px 0px;
-  padding: 4px;
-  margin:auto;
   background-color:#e8e7e7;
 }
 
-.center {
+div.center {
   text-align: center;
+}
+
+div.relative {
+  position: relative;
+  left: 2px;
 }
 
